@@ -19,9 +19,17 @@
 
 ```sh
 git clone https://github.com/suvadeep2001/pokemon-search.git
+```
 
+```sh
+cd pokemon-search
+```
+
+```sh
 npm install
+```
 
+```sh
 npm start
 ```
 
